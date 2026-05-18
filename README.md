@@ -1,7 +1,7 @@
 <h1 align="center">🖤 𝓑𝓮𝓬𝓬𝓪 🖤</h1>
 
 <p align="center">
-  <img src="SEU_GIF_AQUI" width="180px">
+  <img src="https://pin.it/5Lpych6TM.gif" width="180px">
 </p>
 
 <p align="center">
