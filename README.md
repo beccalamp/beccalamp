@@ -1,15 +1,31 @@
+<h1 align="center">🌸 Becca 🌸</h1>
+
+<p align="center">
+  <img src="SEU_GIF_AQUI" width="200px">
+</p>
+
 ## 🌙 About Me  
 Hi! My name is Rebecca, and I'm a programming student. I currently have 100k scrobbles on Last.fm, and I really like cats.
 
 ---
 
-## 🐾 Tech Stack
+## 🚀 Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+
+---
 
 <img src= "https://media.tenor.com/cERJ7M_mH-cAAAAm/eeveelution-eevee-evolution.gif" width="200px">
+
+---
+
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&layout=compact&theme=tokyonight"/>
+</p>
 
 
 ---
