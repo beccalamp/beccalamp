@@ -1,11 +1,9 @@
 ## Know About Me
 
-## Know About Me
-
 <table>
 <tr>
-<td width="200" valign="top">
-<img src="https://media.tenor.com/s8Sgj6kQZ2AAAAAC/eevee-pokemon.gif" width="180"/> 
+<td width="180" valign="top">
+<img src="https://media.tenor.com/s8Sgj6kQZ2AAAAAC/eevee-pokemon.gif" width="160"/>
 </td>
 <td valign="top">
 
@@ -20,6 +18,7 @@ I currently have **100k scrobbles** on Last.fm, and I really like cats.
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🚀 Tech Stack
