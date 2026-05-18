@@ -19,3 +19,5 @@ Hi! My name is Rebecca, and I'm a programming student. I currently have 100k scr
 ![stats](https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight)
 
 ![streak](https://streak-stats.demolab.com/?user=beccalamp&theme=tokyonight)
+
+![snake](https://github.com/beccalamp/beccalamp/blob/output/github-contribution-grid-snake.svg)
