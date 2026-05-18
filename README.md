@@ -1,6 +1,7 @@
 # 🌙 Becca
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/10c3d7da-e467-4e03-8cdc-a3b2077038a3" />
+
 
 ---
 
