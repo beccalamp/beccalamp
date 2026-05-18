@@ -1,6 +1,6 @@
 # 🌙 Becca
 
-https://images.gamebanana.com/img/ico/sprays/64d88e78875d8.gif
+<https://images.gamebanana.com/img/ico/sprays/64d88e78875d8.gif>
 
 
 ---
