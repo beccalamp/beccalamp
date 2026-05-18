@@ -1,11 +1,23 @@
-<h1 align="center">🌸 Becca 🌸</h1>
+## Know About Me
 
-<p align="center">
-  <img src="SEU_GIF_AQUI" width="200px">
-</p>
+<table>
+<tr>
+<td width="200" valign="top">
+<img src="https://media.tenor.com/s8Sgj6kQZ2AAAAAC/eevee-pokemon.gif" width="180"/> 
+</td>
+<td valign="top">
 
-## 🌙 About Me  
-Hi! My name is Rebecca, and I'm a programming student. I currently have 100k scrobbles on Last.fm, and I really like cats.
+### Hey there! I'm Rebecca, and I'm a programming student.
+
+I currently have **100k scrobbles** on Last.fm, and I really like cats.
+
+- Programming student 💻
+- **100k scrobbles** no Last.fm 🎵
+- Cat lover 🐱
+
+</td>
+</tr>
+</table>
 
 ---
 
