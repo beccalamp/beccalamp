@@ -1,10 +1,5 @@
-# 🌙 Becca
-
----
-
-## 🪷 About Me  
-Estudante de programação  
-
+## 🌙 About Me  
+Oi! Me chamo rebecca, esou estudante de programação. Atualmente tenho 100k de scrobbles no Last.fm, e gsoto muito de gatos.
 
 ---
 
