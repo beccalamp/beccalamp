@@ -1,5 +1,5 @@
 ## 🌙 About Me  
-Oi! Me chamo rebecca, esou estudante de programação. Atualmente tenho 100k de scrobbles no Last.fm, e gsoto muito de gatos.
+Hi! My name is Rebecca, and I'm a programming student. I currently have 100k scrobbles on Last.fm, and I really like cats.
 
 ---
 
