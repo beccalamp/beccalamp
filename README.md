@@ -34,10 +34,9 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
 ## 📊 𝓢𝓽𝓪𝓽𝓼
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=444"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&layout=compact&theme=tokyonight&bg_color=00000000&border_color=444"/>
-</p>
+![stats](https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight)
+
+![streak](https://streak-stats.demolab.com/?user=beccalamp&theme=tokyonight)
 
 ---
 
