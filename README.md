@@ -19,9 +19,3 @@ Oi! Me chamo rebecca, esou estudante de programação. Atualmente tenho 100k de 
 ![stats](https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight)
 
 ![streak](https://streak-stats.demolab.com/?user=beccalamp&theme=tokyonight)
-
----
-
-## 💻 Linguagens
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&layout=compact&theme=tokyonight)
