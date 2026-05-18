@@ -1,5 +1,7 @@
 ## Know About Me
 
+## Know About Me
+
 <table>
 <tr>
 <td width="200" valign="top">
@@ -18,7 +20,6 @@ I currently have **100k scrobbles** on Last.fm, and I really like cats.
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🚀 Tech Stack
