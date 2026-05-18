@@ -31,10 +31,6 @@ I currently have **100k scrobbles** on Last.fm, and I really like cats.
 
 ---
 
-<img src= "https://media.tenor.com/cERJ7M_mH-cAAAAm/eeveelution-eevee-evolution.gif" width="200px">
-
----
-
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&layout=compact&theme=tokyonight"/>
