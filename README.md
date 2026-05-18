@@ -1,47 +1,49 @@
-## Know About Me
+<h1 align="center">🖤 𝓑𝓮𝓬𝓬𝓪 🖤</h1>
 
-<table>
-<tr>
-<td width="180" valign="top">
-<img src="https://media.tenor.com/s8Sgj6kQZ2AAAAAC/eevee-pokemon.gif" width="160"/>
-</td>
-<td valign="top">
-
-### Hey there! I'm Rebecca, and I'm a programming student.
-
-I currently have **100k scrobbles** on Last.fm, and I really like cats.
-
-- Programming student 💻
-- **100k scrobbles** no Last.fm 🎵
-- Cat lover 🐱
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Tech Stack
-
-<div>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
-
----
-
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img src="SEU_GIF_AQUI" width="180px">
 </p>
 
+<p align="center">
+  <i>“between code and silence, i exist.”</i>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌙 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-![stats](https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight)
+Hi! My name is Rebecca, and I'm a programming student.  
+I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
-![streak](https://streak-stats.demolab.com/?user=beccalamp&theme=tokyonight)
+---
+
+## 🖤 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-1a1a1a?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1a1a1a?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📊 𝓢𝓽𝓪𝓽𝓼
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=444"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&layout=compact&theme=tokyonight&bg_color=00000000&border_color=444"/>
+</p>
+
+---
+
+## 🌑 𝓒𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂
+
+- studying programming logic  
+- building small projects  
+- exploring my own style  
+
+---
+
+## 🐍
 
 ![snake](https://github.com/beccalamp/beccalamp/blob/output/github-contribution-grid-snake.svg)
