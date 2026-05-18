@@ -1,7 +1,7 @@
 <h1 align="center">🖤 𝓑𝓮𝓬𝓬𝓪 🖤</h1>
 
 <p align="center">
-  <img src="https://pin.it/5Lpych6TM.gif" width="180px">
+  <img src="https://raw.githubusercontent.com/beccalamp/beccalamp/065741a7ee9739dfb71c4ce5017fd642f11a4f0c/chobits-anime.gif" width="180px">
 </p>
 
 <p align="center">
