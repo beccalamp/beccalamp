@@ -9,7 +9,7 @@ Oi! Me chamo rebecca, esou estudante de programação. Atualmente tenho 100k de 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://images.gamebanana.com/img/ico/sprays/64d88e78875d8.gif" width="200px">
+<img src="https://media.tenor.com/vOgdsVDn8SQAAAAM/swpa.gif" width="200px">
 
 
 ---
