@@ -48,6 +48,8 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
 ---
 
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&layout=compact&theme=tokyonight)
+
 ## 🐍
 
 ![snake](https://github.com/beccalamp/beccalamp/blob/output/github-contribution-grid-snake.svg)
