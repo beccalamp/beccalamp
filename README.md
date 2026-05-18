@@ -11,7 +11,7 @@
 ---
 ## 🎧 𝓝𝓸𝔀 𝓟𝓵𝓪𝔂𝓲𝓷𝓰
 
-![Last.fm](https://lastfm-recently-played.vercel.app/api?user=SEUUSER&count=1)
+![Last.fm](https://lastfm-recently-played.vercel.app/api?user=r3bcc&count=1)
 
 ---
 
