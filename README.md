@@ -1,6 +1,6 @@
 # 🌙 Becca
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/10c3d7da-e467-4e03-8cdc-a3b2077038a3" />
+https://images.gamebanana.com/img/ico/sprays/64d88e78875d8.gif
 
 
 ---
