@@ -15,7 +15,6 @@
 Hi! My name is Rebecca, and I'm a programming student.  
 I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
----
 
 ## 🎧 𝓝𝓸𝔀 𝓟𝓵𝓪𝔂𝓲𝓷𝓰
 
@@ -23,7 +22,6 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
   <img src="https://lastfm-recently-played.vercel.app/api?user=r3bcc&count=1"/>
 </p>
 
----
 
 ## 🖤 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
@@ -33,7 +31,6 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
   <img src="https://img.shields.io/badge/CSS-1a1a1a?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
 
 ## 📊 𝓢𝓽𝓪𝓽𝓼
 
