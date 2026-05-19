@@ -10,10 +10,15 @@
 
 ## 🎧 𝓝𝓸𝔀 𝓟𝓵𝓪𝔂𝓲𝓷𝓰
 
-![Last.fm](https://lastfm-recently-played.vercel.app/api?user=r3bcc&count=1)
+<p align="center">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=r3bcc&count=1"/>
+</p>
 
-[![Spotify](https://img.shields.io/badge/Spotify-1a1a1a?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
-
+<p align="center">
+  <a href="https://open.spotify.com/">
+    <img src="https://img.shields.io/badge/Spotify-1a1a1a?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 🌙 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
