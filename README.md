@@ -23,12 +23,6 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
   <img src="https://lastfm-recently-played.vercel.app/api?user=r3bcc&count=1"/>
 </p>
 
-<p align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://img.shields.io/badge/Spotify-1a1a1a?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🖤 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
