@@ -8,6 +8,15 @@
   <i>“between code and silence, i exist.”</i>
 </p>
 
+---
+
+## 🌙 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+
+Hi! My name is Rebecca, and I'm a programming student.  
+I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
+
+---
+
 ## 🎧 𝓝𝓸𝔀 𝓟𝓵𝓪𝔂𝓲𝓷𝓰
 
 <p align="center">
@@ -19,13 +28,6 @@
     <img src="https://img.shields.io/badge/Spotify-1a1a1a?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🌙 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-
-Hi! My name is Rebecca, and I'm a programming student.  
-I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
 ---
 
