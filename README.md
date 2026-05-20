@@ -48,5 +48,6 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 ## 💻 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=beccalamp&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beccalamp&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beccalamp&theme=tokyonight"/>
 </p>
