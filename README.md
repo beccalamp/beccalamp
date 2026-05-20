@@ -4,23 +4,13 @@
 
 ## 🌙 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🌙 About Me</h3>
-        <p>
-          Hi! My name is Rebecca, and I'm a programming student.<br>
-          I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
-        </p>
-      </td>
+<p align="center">
+  <img src="https://media.tenor.com/Zsu1LBqCXdMAAAAm/eeveelution-eevee-evolution.webp.gif" width="140px" align="right"/>
 
-      <td align="center" valign="middle">
-        <img src="https://media.tenor.com/Zsu1LBqCXdMAAAAm/eeveelution-eevee-evolution.webp.gif" width="120px"/>
-      </td>
-    </tr>
-  </table>
-</div>
+Hi! My name is Rebecca, and I'm a programming student.  
+I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
+
+</p>
 
 ## 🚀 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
