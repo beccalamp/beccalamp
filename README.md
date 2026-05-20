@@ -14,7 +14,7 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
-
+![Learning](https://img.shields.io/badge/3_weeks_on_GitHub-181717?style=for-the-badge&logo=github)
 
 ## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
@@ -27,4 +27,4 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Learning](https://img.shields.io/badge/3_weeks_on_GitHub-181717?style=for-the-badge&logo=github)
+
