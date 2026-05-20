@@ -1,13 +1,5 @@
 <h1 align="center">🖤 𝓑𝓮𝓬𝓬𝓪 🖤</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/beccalamp/beccalamp/065741a7ee9739dfb71c4ce5017fd642f11a4f0c/chobits-anime.gif" width="180px">
-</p>
-
-<p align="center">
-  <i>“between code and silence, i exist.”</i>
-</p>
-
 ---
 
 ## 🌙 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
@@ -29,6 +21,14 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
   <img src="https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-1a1a1a?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1a1a1a?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beccalamp/beccalamp/065741a7ee9739dfb71c4ce5017fd642f11a4f0c/chobits-anime.gif" width="180px">
+</p>
+
+<p align="center">
+  <i>“between code and silence, i exist.”</i>
 </p>
 
 
