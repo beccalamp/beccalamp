@@ -17,7 +17,7 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
 ---
 
-## 📊 GitHub Stats
+## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
 ![stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
 
