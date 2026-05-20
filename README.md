@@ -24,6 +24,6 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
 ## 💻 𝓛𝓲𝓷𝓰𝓾𝓪𝓰𝓮𝓷𝓼
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
