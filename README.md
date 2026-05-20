@@ -9,7 +9,7 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
