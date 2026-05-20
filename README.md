@@ -1,7 +1,3 @@
-<h1 align="center">🖤 𝓑𝓮𝓬𝓬𝓪 🖤</h1>
-
----
-
 ## 🌙 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
 <p align="center">
