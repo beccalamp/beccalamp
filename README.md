@@ -4,8 +4,9 @@
 
 ## 🌙 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-<p align="center">
-  <img src="https://media.tenor.com/Zsu1LBqCXdMAAAAm/eeveelution-eevee-evolution.webp.gif" width="140px" align="right"/>
+<td align="center" valign="middle" style="padding-left: 15px;">
+  <img src="https://media.tenor.com/Zsu1LBqCXdMAAAAm/eeveelution-eevee-evolution.webp.gif" width="110px">
+</td>
 
 Hi! My name is Rebecca, and I'm a programming student.  
 I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
