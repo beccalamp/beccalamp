@@ -4,8 +4,20 @@
 
 ## 🌙 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
+<table>
+<tr>
+<td>
+
 Hi! My name is Rebecca, and I'm a programming student.  
 I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
+
+</td>
+
+<td>
+<img "https://github.com/beccalamp/beccalamp/blob/aa9721d98f55a8a8e257d517d10ae4b8f43df848/chobits-anime.gif" width="150px"/>
+</td>
+
+</tr>
 
 
 ## 🚀 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
