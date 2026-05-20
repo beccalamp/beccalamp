@@ -22,8 +22,3 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 </p>
 
 ## 💻 𝓛𝓲𝓷𝓰𝓾𝓪𝓰𝓮𝓷𝓼
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beccalamp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</p>
-
