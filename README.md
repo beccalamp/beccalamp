@@ -17,10 +17,14 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
 ## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
-![stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beccalamp&theme=tokyonight"/>
+</p>
 
-![streak](https://streak-stats.demolab.com/?user=SEUUSER&theme=tokyonight)
-
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=beccalamp&theme=tokyonight"/>
+</p>
 
 ## 💻 𝓛𝓲𝓷𝓰𝓾𝓪𝓰𝓮𝓷𝓼
 
