@@ -7,7 +7,6 @@
 Hi! My name is Rebecca, and I'm a programming student.  
 I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
----
 
 ## 🚀 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
@@ -15,7 +14,6 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
 
 ## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
@@ -23,14 +21,8 @@ I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
 
 ![streak](https://streak-stats.demolab.com/?user=SEUUSER&theme=tokyonight)
 
----
 
-## 💻 Linguagens
+## 💻 𝓛𝓲𝓷𝓰𝓾𝓪𝓰𝓮𝓷𝓼
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight)
 
----
-
-## 🎮 GIF
-
-<img src="LINK DO GIF AQUI" width="200px">
