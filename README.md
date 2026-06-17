@@ -3,8 +3,7 @@
 <p align="center">
   <img src="https://media.tenor.com/cERJ7M_mH-cAAAAm/eeveelution-eevee-evolution.webp" width="100px" align="right"/>
 
-Hi! My name is Rebecca, and I'm a programming student.  
-I currently have 100k scrobbles on Last.fm, and I really like cats 🐈‍⬛
+  Estudante de programação. 🐈‍⬛
 
 </p>
 
