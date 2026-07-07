@@ -22,3 +22,18 @@ Always learning, one project at a time.
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+
+
+## 📚 Currently Learning
+
+- C#
+- .NET
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+
+## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beccalamp&theme=tokyonight"/>
+</p>
