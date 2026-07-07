@@ -1,4 +1,4 @@
-## 🌙 About Me
+## About Me 
 
 <div align="left">
 
@@ -11,8 +11,6 @@ Always learning, one project at a time.
 
 </div>
 
-## 💻 Technologies
-
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +22,7 @@ Always learning, one project at a time.
 ![](https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 
 
-## 📚 Currently Learning
+## Currently Learning
 
 - C#
 - .NET
@@ -32,7 +30,7 @@ Always learning, one project at a time.
 - JavaScript
 - Git & GitHub
 
-## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
+## Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beccalamp&theme=tokyonight"/>
