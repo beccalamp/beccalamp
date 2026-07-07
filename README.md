@@ -28,7 +28,8 @@ I'm currently learning C#, .NET and Web Development, always building new project
 - JavaScript
 - Git & GitHub
 
-## Stats
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beccalamp&theme=tokyonight"/>
