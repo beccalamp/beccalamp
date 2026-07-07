@@ -4,10 +4,8 @@
 
 <img src="https://media.tenor.com/cERJ7M_mH-cAAAAm/eeveelution-eevee-evolution.webp" width="100px" align="right"/>
 
-Hi!
-Systems Development student from Brazil.
-Currently learning C#, .NET and Web Development.
-Always learning, one project at a time.
+Hi! I'm Becca, a Systems Development student from Brazil.
+I'm currently learning C#, .NET and Web Development, always building new projects and improving my skills.
 
 </div>
 
