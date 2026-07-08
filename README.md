@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<img src="https://media.tenor.com/_tQgMQmDwMoAAAAi/sasuke-chidori.gif" width="100px" align="right"/>
+<img src="https://media1.tenor.com/m/PRS391OlMlMAAAAC/sasuke-67.gif" width="100px" align="right"/>
 
 Hi! I'm Becca, a Systems Development student from Brazil.
 I'm currently learning C#, .NET and Web Development, always building new projects and improving my skills.
