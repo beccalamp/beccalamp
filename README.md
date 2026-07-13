@@ -4,7 +4,7 @@
 
 <img src="https://media1.tenor.com/m/PRS391OlMlMAAAAC/sasuke-67.gif" width="100px" align="right"/>
 
-Hi! I'm Becca, a Systems Development student from Brazil.
+Hi! I'm Rebecca, a Systems Development student from Brazil.
 I'm currently learning C#, .NET and Web Development, always building new projects and improving my skills.
 
 </div>
