@@ -23,8 +23,8 @@
 
 ### github stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=dark&hide_border=true&layout=compact" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beccalamp&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beccalamp&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beccalamp&theme=dark" />
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000&height=100&section=footer"/>
