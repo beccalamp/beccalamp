@@ -22,10 +22,10 @@ Passionate about clean architecture and learning by building projects.
 
 ---
 
-### GitHub Stats
+### github stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
 
  <img src="https://media.tenor.com/n86mqg9hSNwAAAAM/sasuke-sasuke-uchiha.gif"/>
