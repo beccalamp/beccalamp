@@ -22,10 +22,14 @@ Oi! Eu sou a **Rebecca** 👋
 - `HTML`, `CSS` & `JavaScript`
 - `Git` & `GitHub`
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
 </p>
 
 ### 🔗 Connect with me
