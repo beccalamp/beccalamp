@@ -3,7 +3,7 @@
 <div align="center">
 
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF66C4&center=true&vCenter=true&width=435&lines=Hello+World!;system+online+-+welcome_;point%2C+click%2C+explore" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF66C4&center=true&vCenter=true&width=500&lines=Hello+World!;system+online+-+welcome_;▶︎+point%2C+click%2C+explore+ㅤ+⊹+࣪+ㅤ୨୧" />
 </div>
 
   ### `Systems Development Student` • `Brazil` • `she/her`
