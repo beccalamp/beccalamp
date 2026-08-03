@@ -11,7 +11,8 @@
 ---
 
 ### About
-Aspiring software developer focused on C# and .NET ecosystem. Currently building web applications and learning clean code practices.
+Building full-stack applications with ASP.NET Core and Entity Framework. 
+Passionate about clean architecture and learning by building projects.
 
 ### Tech Stack
 <p align="left">
