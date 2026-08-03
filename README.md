@@ -1,29 +1,29 @@
-## hey, i'm rebecca 👋
-
-**Systems Development student | Brazil**  
-learning `C#` `.NET` and `Web Development`  
-building projects and leveling up my skills ✨
-
-<img src="https://media1.tenor.com/m/PR53910IMJAAAAAC/sasuke-g7.gif" width="90" align="right"/>
-
----
-
-### tech stack
-`C#` ` .NET` `HTML5` `CSS3` `JavaScript` `MySQL` `Git` `GitHub` `Rider`
-
-### currently learning
-- C# & .NET
-- HTML, CSS & JavaScript
+<div align="center">
+  
+  ### rebecca
+  
+  `Systems Development Student` • `Brazil` • `she/her`
+  
+  <img src="https://media1.tenor.com/m/PR53910IMJAAAAAC/sasuke-g7.gif" width="100"/>
+  
+  learning **C#** · **.NET** · **Web Dev**
+</div>
 
 ---
 
-### stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&theme=default&hide_border=true&bg_color=00000" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=default&hide_border=true&bg_color=00000&layout=compact" width="48%"/>
+### languages & tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,rider" />
 </p>
 
----
+### i'm currently studying
+C# · .NET · HTML/CSS · JavaScript
 
-### find me
-[Last.fm](https://www.last.fm/user/r3bcc)
+### github
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <a href="https://www.last.fm/user/r3bcc">last.fm</a>
+</p>
