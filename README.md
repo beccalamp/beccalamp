@@ -2,8 +2,7 @@
 
 <div align="center">
 
-  ## Becca ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
-  
+  ## Becca ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐  
   ### `Systems Development Student` • `Brazil` • `she/her`
   
   <img src="https://media1.tenor.com/m/PR53910IMJAAAAAC/sasuke-g7.gif" width="100"/>
