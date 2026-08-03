@@ -1,6 +1,9 @@
 <div align="center">
   
-  ### rebecca
+  ### 
+Hi! I'm Rebecca, a Systems Development student from Brazil.
+I'm currently learning C#, .NET and Web Development, always building new projects and improving my skills.
+
   
   `Systems Development Student` • `Brazil` • `she/her`
   
