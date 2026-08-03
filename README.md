@@ -33,11 +33,7 @@ Passionate about clean architecture and learning by building projects.
 ---
 ### GitHub Stats Extras
 
-### 📊 GitHub Stats Extras
-
-<p align="center">
-  <img src="https://git.io/streak-stats?user=beccalamp&theme=dark&hide_border=true&background=0D1117&ring=24224D&fire=24224D&currStreakLabel=24224D" alt="GitHub Streak"/>
-</p>
+<img src="https://git.io/streak-stats?user=beccalamp&theme=dark&hide_border=true&background=0D1117&ring=24224D&fire=24224D&currStreakLabel=24224D" alt="GitHub Streak"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24224D,100:000&height=100&section=footer"/>
 
