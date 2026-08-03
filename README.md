@@ -17,13 +17,12 @@
 </p>
 
 ### i'm currently studying
-C# · .NET · HTML/CSS · JavaScript
+`C#` · `.NET` · `HTML/CSS` · `JavaScript`
 
-### github
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&theme=transparent&hide_border=true" />
-</p>
+---
 
+### github stats
 <p align="center">
-  <a href="https://www.last.fm/user/r3bcc">last.fm</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
