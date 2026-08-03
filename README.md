@@ -29,4 +29,6 @@ Aspiring software developer focused on C# and .NET ecosystem. Currently building
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&layout=compact" height="165"/>
 </p>
 
+ <img src="https://media.tenor.com/n86mqg9hSNwAAAAM/sasuke-sasuke-uchiha.gif"/>
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000&height=80&section=footer"/>
