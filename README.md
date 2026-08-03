@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000&height=200&section=header&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
+
+  ## Becca ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
   
   ### `Systems Development Student` • `Brazil` • `she/her`
   
