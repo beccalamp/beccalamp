@@ -3,7 +3,6 @@
 <div align="center">
   
   <h2>Rebecca</h2>
-  <img src="https://media.tenor.com/_DRqPoswemwAAAAM/sasuke.gif"/>
 
   <p><code>Systems Student</code> • <code>she/her</code> • <code>Brazil</code></p>
   <p><code>C#</code> • <code>.NET</code> • <code>Web Development</code></p>
