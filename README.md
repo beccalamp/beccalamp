@@ -13,19 +13,27 @@ Building full-stack applications with ASP.NET Core and Entity Framework.
 Passionate about clean architecture and learning by building projects.
 
 
-### Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode" />
+### Tech Stack & Currently Learning
+
+<table>
+<tr>
+<td valign="top" width="70%">
+
+**Tech Stack**
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode" />
 </p>
 
-### Currently Learning
-`C#` · `.NET` · `ASP.NET Core` · `Entity Framework`
-  
+**Currently Learning**
+<p>
+<code>C#</code> · <code>.NET</code> · <code>ASP.NET Core</code> · <code>Entity Framework</code>
+</p>
+
 </td>
-<td align="center" width="30%">
-  
-  <img src="https://media.tenor.com/n86mqg9hSNwAAAAM/sasuke-sasuke-uchiha.gif" width="150"/>
-  
+<td valign="top" align="center" width="30%">
+
+<img src="https://media.tenor.com/n86mqg9hSNwAAAAM/sasuke-sasuke-uchiha.gif" width="180"/>
+
 </td>
 </tr>
 </table>
