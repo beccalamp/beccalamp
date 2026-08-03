@@ -12,6 +12,10 @@
 Building full-stack applications with ASP.NET Core and Entity Framework. 
 Passionate about clean architecture and learning by building projects.
 
+<p aling="left"
+ <img src="https://media.tenor.com/n86mqg9hSNwAAAAM/sasuke-sasuke-uchiha.gif"/>
+
+
 ### Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode" />
@@ -29,6 +33,5 @@ Passionate about clean architecture and learning by building projects.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24224D,100:000&height=100&section=footer"/>
- <img src="https://media.tenor.com/n86mqg9hSNwAAAAM/sasuke-sasuke-uchiha.gif"/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000&height=80&section=footer"/>
