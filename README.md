@@ -22,9 +22,12 @@
 ---
 
 ### github stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beccalamp&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beccalamp&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beccalamp&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beccalamp&theme=dark&hide_border=true&background=000&stroke=FF66C4&ring=FF66C4&fire=FF66C4&currStreakLabel=FF66C4" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beccalamp&theme=dark" height="200"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000&height=100&section=footer"/>
