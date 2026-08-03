@@ -1,7 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000&height=100&section=header&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
-  
+
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF66C4&center=true&vCenter=true&width=435&lines=Hello+World!;system+online+-+welcome_;point%2C+click%2C+explore" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Systems+Development+Student+%7C+Brazil+%7C+she%2Fher;learning+C%23+%2E+.NET+%2E+Web+Dev" />
+</div>
+
   ### `Systems Development Student` • `Brazil` • `she/her`
   
   <img src="https://media1.tenor.com/m/PR53910IMJAAAAAC/sasuke-g7.gif" width="100"/>
