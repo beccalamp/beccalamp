@@ -1,31 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000&height=100&section=header&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000&height=80&section=header"/>
 
 <div align="center">
-
-
-  ### `Systems Development Student` • `Brazil` • `she/her`
   
-  <img src="https://media1.tenor.com/m/PR53910IMJAAAAAC/sasuke-g7.gif" width="100"/>
+  <h2>Rebecca</h2>
+  <p><code>Systems Development Student</code> • <code>Brazil</code></p>
+  <p><code>C#</code> • <code>.NET</code> • <code>Web Development</code></p>
   
-  learning **C#** · **.NET** · **Web Dev**
 </div>
 
 ---
 
-### languages & tools
+### About
+Aspiring software developer focused on C# and .NET ecosystem. Currently building web applications and learning clean code practices.
+
+### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,rider" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode" />
 </p>
 
-### i'm currently studying
-`C#` · `.NET` · `HTML/CSS` · `JavaScript`
+### Currently Learning
+`C#` · `.NET` · `ASP.NET Core` · `Entity Framework`
 
 ---
-### 📊 github stats extras
 
+### GitHub Stats
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=beccalamp&theme=dark&hide_border=true&background=000&stroke=FF66C4&ring=FF66C4&fire=FF66C4&currStreakLabel=FF66C4" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&layout=compact" height="165"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000&height=80&section=footer"/>
