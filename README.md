@@ -15,10 +15,6 @@ Passionate about clean architecture and learning by building projects.
 
 ### Tech Stack 
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode" />
-</p>
-
 **Currently Learning**
 <p>
 <code>C#</code> · <code>.NET</code> · <code>ASP.NET Core</code> · <code>Entity Framework</code>
@@ -32,6 +28,10 @@ Passionate about clean architecture and learning by building projects.
 </td>
 </tr>
 </table>
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode" />
+</p>
 
 ---
 ### GitHub Stats Extras
