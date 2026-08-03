@@ -21,12 +21,12 @@ Passionate about clean architecture and learning by building projects.
 `C#` · `.NET` · `ASP.NET Core` · `Entity Framework`
 
 ---
-
 ### github stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=beccalamp&theme=dark&hide_border=true&background=000&stroke=FF66C4&ring=FF66C4&fire=FF66C4&currStreakLabel=FF66C4" alt="GitHub Streak"/>
 </p>
+
 
  <img src="https://media.tenor.com/n86mqg9hSNwAAAAM/sasuke-sasuke-uchiha.gif"/>
 
