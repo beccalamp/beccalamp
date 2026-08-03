@@ -20,18 +20,11 @@ Passionate about clean architecture and learning by building projects.
 ### Currently Learning
 `C#` · `.NET` · `ASP.NET Core` · `Entity Framework`
   
-</td>
-<td align="center" width="30%">
-  
-  <img src="https://media.tenor.com/n86mqg9hSNwAAAAM/sasuke-sasuke-uchiha.gif" width="150"/>
   
 </td>
 </tr>
 </table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode" />
-</p>
 
 ---
 ### GitHub Stats Extras
