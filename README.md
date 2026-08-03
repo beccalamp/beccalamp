@@ -1,12 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=rebecca&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=hi%2C+I'm+rebecca;Systems+Development+Student;C%23+%7C+.NET+%7C+Web+Dev" />
 
 <div align="center">
-  
-  ### `Systems Development Student` • `Brazil` • `she/her`
-  
-  <img src="https://media1.tenor.com/m/PR53910IMJAAAAAC/sasuke-g7.gif" width="100"/>
-  
-  learning **C#** · **.NET** · **Web Dev**
+  <img src="https://media1.tenor.com/m/PR53910IMJAAAAAC/sasuke-g7.gif" width="120"/>
 </div>
 
 ---
@@ -26,5 +21,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=100&section=footer"/>
