@@ -1,9 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=rebecca&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+
 <div align="center">
   
-  ### 
-Hi! I'm Rebecca.
-
-  `Systems Development Student` • `Brazil` • `she/her`
+  ### `Systems Development Student` • `Brazil` • `she/her`
   
   <img src="https://media1.tenor.com/m/PR53910IMJAAAAAC/sasuke-g7.gif" width="100"/>
   
@@ -27,3 +26,5 @@ Hi! I'm Rebecca.
   <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=100&section=footer"/>
