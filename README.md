@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39095C,100:000&height=100&section=header&fontSize=50&fontColor=474DA6&animation=twinkling&fontAlignY=35"/>
 
-
 <div align="center">
   
   <h2>Rebecca</h2>
