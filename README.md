@@ -20,14 +20,18 @@
 `C#` · `.NET` · `HTML/CSS` · `JavaScript`
 
 ---
-
-### github stats
+### 📊 github stats extras
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beccalamp&theme=dark&hide_border=true&background=000&stroke=FF66C4&ring=FF66C4&fire=FF66C4&currStreakLabel=FF66C4" height="165"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=beccalamp&theme=dark&hide_border=true&background=000&stroke=FF66C4&ring=FF66C4&fire=FF66C4&currStreakLabel=FF66C4" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beccalamp&theme=dark" height="200"/>
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=beccalamp&show_icons=true&theme=dark&hide_border=true&bg_color=000&title_color=FF66C4&text_color=FFFFFF&icon_color=FF66C4" height="165"/>
+  
+  <!-- Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=dark&hide_border=true&bg_color=000&title_color=FF66C4&text_color=FFFFFF&layout=compact" height="165"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000&height=100&section=footer"/>
