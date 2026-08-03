@@ -14,6 +14,7 @@ Passionate about clean architecture and learning by building projects.
 
 <p aling="left"
  <img src="https://media.tenor.com/n86mqg9hSNwAAAAM/sasuke-sasuke-uchiha.gif"/>
+</p>
 
 
 ### Tech Stack
