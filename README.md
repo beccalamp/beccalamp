@@ -13,7 +13,7 @@ Building full-stack applications with ASP.NET Core and Entity Framework.
 Passionate about clean architecture and learning by building projects.
 
 
-### Tech Stack & Currently Learning
+### Tech Stack 
 
 <table>
 <tr>
