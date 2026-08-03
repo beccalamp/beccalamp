@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000000&height=200&section=header&text=rebecca&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000&height=200&section=header&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
   
@@ -27,4 +27,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beccalamp&theme=dark&hide_border=true&layout=compact" height="165"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000000&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66C4,100:000&height=100&section=footer"/>
