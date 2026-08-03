@@ -15,11 +15,6 @@ Passionate about clean architecture and learning by building projects.
 
 ### Tech Stack 
 
-<table>
-<tr>
-<td valign="top" width="70%">
-
-**Tech Stack**
 <p>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode" />
 </p>
