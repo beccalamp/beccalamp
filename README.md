@@ -21,6 +21,23 @@ Passionate about clean architecture and learning by building projects.
 ### Currently Learning
 `C#` · `.NET` · `ASP.NET Core` · `Entity Framework`
 
+### Tech Stack
+
+<table>
+<tr>
+<td align="left" width="70%">
+  
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode" />
+  
+</td>
+<td align="center" width="30%">
+  
+  <img src="https://media.tenor.com/n86mqg9hSNwAAAAM/sasuke-sasuke-uchiha.gif" width="150"/>
+  
+</td>
+</tr>
+</table>
+
 ---
 ### GitHub Stats Extras
 
