@@ -1,15 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000&height=80&section=header"/>
+<img src="https://media.tenor.com/_DRqPoswemwAAAAM/sasuke.gif"/>
 
 <div align="center">
   <img src="https://media.tenor.com/PrZl7K8Zz8AAAAAC/sasuke-uchiha.gif" width="100%" height="200"/>
-</div>
-
-<div align="center">
-  
-  <h2>Rebecca</h2>
-  <p><code>Systems Development Student</code> • <code>Brazil</code></p>
-  <p><code>C#</code> • <code>.NET</code> • <code>Web Development</code></p>
-  
 </div>
 
 <div align="center">
