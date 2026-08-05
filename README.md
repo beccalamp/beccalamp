@@ -27,7 +27,7 @@ Passionate about clean architecture and learning by building projects.
 
 
 ---
-### github stats extras
+### github stats
 
 <p align="center">
   <!-- Streak Stats -->
